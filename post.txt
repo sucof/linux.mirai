@@ -2,6 +2,8 @@
 [size=x-large]Preface[/size]
 Greetz everybody,
 
+9月7日讯 MalwareMustDie的专家发现了一款名为“ELF Linux/Mirai”的新型ELF木马后门，正针对物联网设备展
+
 When I first go in DDoS industry, I wasn't planning on staying in it long. I made my money, there's lots of eyes looking at IOT now, so it's time to GTFO. However, I know every skid and their mama, it's their wet dream to have something besides qbot.
 
 So today, I have an amazing release for you. With Mirai, I usually pull max 380k bots from telnet alone. However, after the Kreb DDoS, ISPs been slowly shutting down and cleaning up their act. Today, max pull is about 300k bots, and dropping.
